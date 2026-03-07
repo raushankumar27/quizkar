@@ -1,6 +1,6 @@
 [
   {
-    "topics": ["Science", "General"],
+    "topics": ["Special", "General"],
     "question": "What is the chemical symbol for gold?",
     "options": ["Au", "Ag", "Fe", "Cu"],
     "answer": "Au"
